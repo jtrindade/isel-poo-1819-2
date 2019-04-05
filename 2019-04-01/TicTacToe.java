@@ -1,4 +1,5 @@
 import model.Model;
+import view.CommandLineView;
 import view.ConsolePGView;
 import view.View;
 import ctrl.Ctrl;
